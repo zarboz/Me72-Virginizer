@@ -1,3 +1,11 @@
+Pre Requisits:
+Tuner Pro must be installed and working
+You must understand how to load an XDF and open a Bin in tuner pro
+Galletto 1260 must be installed and working
+You must understand how to pull a dump in "boot" mode from your DME
+This is outlined TONS of places on the internet
+
+
 Load your 512kb file into tuner pro and open up the xdf that is included
 run the patch function
 
