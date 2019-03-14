@@ -5,9 +5,11 @@ Galletto 1260 must be installed and working
 You must understand how to pull a dump in "boot" mode from your DME
 This is outlined TONS of places on the internet
 
+Open up tuner pro and load the included XDF
+then load your BIN
+Once loaded click the patch at the top and click apply patch then apply
 
-Load your 512kb file into tuner pro and open up the xdf that is included
-run the patch function
+THEN
 
 open the 3 vin locations and the ones that show entries other than FF FF FF need to be over written with your VIN
 
