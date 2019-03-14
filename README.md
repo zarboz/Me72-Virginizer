@@ -9,7 +9,7 @@
 
 ## Get started
 1. Open up tuner pro and load the included XDF
-2. then load your BIN
+2. then load your 512kb BIN you have already obtained before starting
 3. Once loaded click the patch at the top and click apply patch then apply
 4. open the 3 vin locations and the ones that show entries other than FF FF FF need to be over written with your VIN
 
