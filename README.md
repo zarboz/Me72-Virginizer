@@ -8,9 +8,7 @@ This system stores a special set of codes on your DME that changes on a rolling 
 ## Pre Requisits:
 - Tuner Pro must be installed and working
 - You must understand how to load an XDF and open a Bin in tuner pro
-- Galletto 1260 must be installed and working
-- You must understand how to pull a dump in "boot" mode from your DME
-- This is outlined TONS of places on the internet
+- You must understand how to pull a dump in "boot" mode from your DME This is outlined TONS of places on the internet
 - You must have pulled a 512kb dump of your DME in "boot" mode
 - have Perl installed you can get it from here : https://www.perl.org/get.html
 
