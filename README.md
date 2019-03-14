@@ -10,5 +10,11 @@ You would run this from your terminal using perl
 windows:
 perl vintohex.pl --vin=PUTYOURVINNUMBERHERE
 
+linux/mac:
+
+chmod 755 vintohex.pl
+./vintohex.pl --vin=PUTYOURVINNUMBERHERE
+
+
 when it returns the hex copy it and paste it into the tuner pro boxes for your VIN
 TADA! you have a virginized Me7.2 DME that you can now run an alignment on
