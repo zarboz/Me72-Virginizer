@@ -4,6 +4,7 @@
 - Galletto 1260 must be installed and working
 - You must understand how to pull a dump in "boot" mode from your DME
 - This is outlined TONS of places on the internet
+- You must have pulled a 512kb dump of your DME in "boot" mode
 
 
 ## Get started
