@@ -1,4 +1,4 @@
-<!-- Written 03/13/2019 18:11:09 -->
+<!-- Written 11/25/2019 12:24:37 -->
 <XDFFORMAT version="1.60">
   <XDFHEADER>
     <flags>0x1</flags>
@@ -13,9 +13,9 @@
   <XDFPATCH uniqueid="0x13E3">
     <title>Virginize your me7.2</title>
     <description>This will only do the virginizing you will need to overwrite the VIN in the HEX file still</description>
-    <XDFPATCHENTRY name="Virginizer" address="0x3FD3C" datasize="0x1" patchdata="FF" />
-    <XDFPATCHENTRY name="Virginizer" address="0x1FD3C" datasize="0x1" patchdata="FF" />
-    <XDFPATCHENTRY name="Virginizer" address="0xFD3C" datasize="0x1" patchdata="FF" />
+    <XDFPATCHENTRY name="Virginizer" address="0x3FD3C" datasize="0x7" patchdata="FFFFFFFFFFFFFF" />
+    <XDFPATCHENTRY name="Virginizer" address="0x1FD3C" datasize="0x7" patchdata="FFFFFFFFFFFFFF" />
+    <XDFPATCHENTRY name="Virginizer" address="0xFD3C" datasize="0x7" patchdata="FFFFFFFFFFFFFF" />
   </XDFPATCH>
   <XDFTABLE uniqueid="0x7370" flags="0x0">
     <title>Vin Location 1</title>
